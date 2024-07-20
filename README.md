@@ -25,6 +25,6 @@ Memory Optimization: Efficient use of memory and dynamic allocation.
 Modular Design: Clear separation of game logic, I/O operations, and data handling.
 Getting Started
 
-Prerequisites
+Prerequisites:
 A C compiler (e.g., GCC)
 Standard C library
